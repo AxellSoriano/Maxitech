@@ -129,7 +129,7 @@
 		</div>
 		<div class="carousel-inner">
 			<div class="carousel-item active">
-				<img src="<c:url value='images/mesa de trabajo 1.png'/>" class="d-block w-100" alt="...">
+				<img src="<c:url value='images/maxitech4.PNG'/>" class="d-block w-100" alt="...">
 				<div class="carousel-caption d-none d-md-block">
 					<h5>MAXITECH</h5>
 					<p>Promoción por el mes de julio</p>
